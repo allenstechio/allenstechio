@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
 <h2 align="center">👨About Me</h2>
-<h3 align="center">I'm a sysadmin, gamer, and car enthusiast. I'm an advid open source contributor, advocate for FOSS, and love learning all things DevOps. In my downtime you'll find me working on my homelab or playing video games.</h3>
+<h3 align="center">I'm a sysadmin, gamer, and car enthusiast. I'm an advid open source contributor, advocate for FOSS, and love learning all things DevOps. In my downtime you'll find me working on my homelab or playing the latest games.</h3>
 
 <h2 align="center">📚What am I learning?</h2>
 <h3 align="center">I'm currently learning 🐍Python</h3>
