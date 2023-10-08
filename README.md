@@ -1,3 +1,5 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/qwv1.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 <h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
 <h2 align="center">👨About Me</h2>
