@@ -10,17 +10,17 @@ I'm a Cloud Infrastructure Engineer specializing in Azure solutions and Infrastr
 
 <br>
 
+## Current Project(s)
+
+I'm currently implementing [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/) in my personal Azure tenant. AMBA provides a standardized policy-driven alerting framework aligned with Azure Well-Architected Framework principles and enables faster incident response across Azure cloud infrastructure.
+
+<br>
+
 ## Core Competencies
 
 - **Cloud Expertise:** Azure, AWS, Docker, Terraform, Packer, Ansible, GitHub Actions, Azure DevOps - building robust, automated cloud infrastructure.
 - **Automation & Efficiency:** CI/CD pipelines and Infrastructure as Code to optimize workflows and minimize downtime.
 - **Mentorship & Collaboration:** Knowledge sharing and collective problem-solving for complex infrastructure challenges.
-
-<br>
-
-## Current Project(s)
-
-I'm currently implementing [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/) in my personal Azure tenant. AMBA provides a standardized policy-driven alerting framework aligned with Azure Well-Architected Framework principles and enables faster incident response across Azure cloud infrastructure.
 
 <br>
 
@@ -67,3 +67,12 @@ I'm currently implementing [Azure Monitor Baseline Alerts](https://azure.github.
 
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+
+## Connect with Me
+   
+[![Website](https://img.shields.io/badge/Website-allenstech.io-blue?style=flat-square&logo=google-chrome)](https://allenstech.io)
+[![Twitter](https://img.shields.io/badge/Twitter-@allenstech__io-1DA1F2?style=flat-square&logo=twitter)](https://x.com/allenstech_io)
+
+## GitHub Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allenstechio&theme=github-dark)
