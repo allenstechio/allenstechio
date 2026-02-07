@@ -6,8 +6,6 @@
 
 I'm a Cloud Infrastructure Engineer specializing in Azure solutions and Infrastructure as Code automation. I thrive on solving complex problems and turning ideas into powerful cloud solutions.
 
-![Profile views](https://komarev.com/ghpvc/?username=allenstechio&label=Profile%20views&color=0e75b6&style=flat)
-
 <br>
 
 ## Current Project(s)
@@ -76,3 +74,7 @@ I'm currently implementing [Azure Monitor Baseline Alerts](https://azure.github.
 ## GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allenstechio&theme=github-dark)
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=allenstechio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
