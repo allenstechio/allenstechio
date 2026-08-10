@@ -8,12 +8,6 @@ I'm a Cloud Infrastructure Engineer specializing in Azure solutions and Infrastr
 
 <br>
 
-## Current Project(s)
-
-I'm currently implementing [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/) in my personal Azure tenant. AMBA provides a standardized policy-driven alerting framework aligned with Azure Well-Architected Framework principles and enables faster incident response across Azure cloud infrastructure.
-
-<br>
-
 ## Core Competencies
 
 - **Cloud Expertise:** Azure, AWS, Docker, Terraform, Packer, Ansible, GitHub Actions, Azure DevOps - building robust, automated cloud infrastructure.
